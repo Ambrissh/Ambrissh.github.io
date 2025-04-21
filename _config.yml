@@ -3,4 +3,8 @@ logo: /assets/IMG_8846.png
 description: Hey! I am Ambrissh , a second year BS-MS undergrad at IISER Berhampur .
 show_downloads: false
 
-theme: jekyll-theme-minimal
+theme: minima
+
+github:
+  is_project_page: false
+

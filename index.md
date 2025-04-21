@@ -14,6 +14,11 @@ I am highly motivated to deepen my expertise in quantum technologies and contrib
 
 ---
 
+### 📄 CV
+
+You can find my CV [here](/assets/cvasrr.pdf).
+
+
 ### 🔗 Links
 
 - 🎥 [YouTube – Metaverse Entangled](https://www.youtube.com/@MetaverseEntangled)

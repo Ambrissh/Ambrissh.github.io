@@ -21,10 +21,11 @@ You can find my CV [here](/assets/cvasrr.pdf).
 
 
 
-### 🔗 Links
+
 
 I am excited to connect with like-minded individuals and collaborate on ideas in the fields of quantum cryptography, quantum computing, and educational technologies. I am open to discussions, sharing knowledge, and exploring potential partnerships that align with my goals in these areas. If you're interested in collaborating or sharing ideas, feel free to reach out through the links provided.(Linkedin and e-mail).
 Do checkout my youtube channel as well !
+### 🔗 Links
 
 - 🎥 [YouTube – Metaverse Entangled](https://www.youtube.com/@MetaverseEntangled)
 - 🔗 [LinkedIn – Ambrissh S Raghav](https://www.linkedin.com/in/ambrissh-s-raghav-9bbb12218/)

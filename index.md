@@ -27,7 +27,7 @@ I am highly motivated to deepen my expertise in quantum technologies and contrib
 
 ### 📄 CV
 
-You can find my CV [here](assets/cvasrr.pdf).
+You can find my CV [here](/assets/cvasrr.pdf).
 
 
 

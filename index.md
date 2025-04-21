@@ -29,7 +29,8 @@ I am excited to connect with like-minded individuals and collaborate on ideas in
 # Mail
 [mail](./ambrissh23@iiserbpr.ac.in/).
 
-I
+
+
 
 
 

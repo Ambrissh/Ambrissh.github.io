@@ -13,8 +13,6 @@ complex scientific ideas more accessible to the general public.
 I am highly motivated to deepen my expertise in quantum technologies and contribute meaningfully to the
 advancement of quantum computing and cryptographic systems.
 
-[Metaverse Entangled](./https://www.youtube.com/@MetaverseEntangled).
-Feel free to look checkout  my youtube channel !
 
 # CV 
 [CV](./assets/cvasrr.pages).
@@ -23,11 +21,15 @@ Feel free to look checkout  my youtube channel !
 I am excited to connect with like-minded individuals and collaborate on ideas in the fields of quantum cryptography, quantum computing, and educational technologies. I am open to discussions, sharing knowledge, and exploring potential partnerships that align with my goals in these areas. If you're interested in collaborating or sharing ideas, feel free to reach out through the links provided.
 
 
-# Linkedin 
-[linkedin](./https://www.linkedin.com/in/ambrissh-s-raghav-9bbb12218/).
 
-# Mail
-[mail](./ambrissh23@iiserbpr.ac.in/).
+<h2>Links</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/@MetaverseEntangled" target="_blank">📺 YouTube Channel – Metaverse Entangled</a></li>
+  <li><a href="https://www.linkedin.com/in/ambrissh-s-raghav-9bbb12218/" target="_blank">🔗 LinkedIn – Ambrissh S Raghav</a></li>
+  <li><a href="mailto:ambrissh23@iiserbpr.ac.in">✉️ Mail – ambrissh23@iiserbpr.ac.in</a></li>
+</ul>
+
 
 
 

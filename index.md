@@ -2,10 +2,7 @@
 layout: default
 ---
 
----
-layout: default
-title: Ambrissh S Raghav
----
+
 
 # Ambrissh S Raghav
 
